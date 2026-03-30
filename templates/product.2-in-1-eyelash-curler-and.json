@@ -560,41 +560,41 @@
         "frequently_asked_question_tdwyep": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Is it safe to use on sensitive skin?",
+            "row_content": "<p>Yes, the device is designed to be gentle and safe for all skin types.</p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Does the eyelash curler damage lashes?",
+            "row_content": "<p>No, it provides a soft, natural lift without pulling or damaging your lashes.</p>"
           }
         },
         "frequently_asked_question_p9THCx": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "No, it provides a soft, natural lift without pulling or damaging your lashes.",
+            "row_content": "<p>Yes, it trims hair smoothly without cuts, irritation, or discomfort.</p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Can I use it daily?",
+            "row_content": "<p>Absolutely! It’s safe and perfect for everyday us.</p>"
           }
         }
       },
