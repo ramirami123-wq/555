@@ -518,73 +518,85 @@
         "bottom_padding_mobile": 0
       }
     },
+    "1774876431946d8140": {
+      "type": "_blocks",
+      "settings": {}
+    },
     "1774875447780d0c0a": {
       "type": "_blocks",
       "settings": {}
     },
     "17748760589742d3b7": {
       "type": "_blocks",
+      "settings": {}
+    },
+    "1774877859b9da17c4": {
+      "type": "_blocks",
       "blocks": {
-        "ai_gen_block_21d7141_Y4YGzG": {
-          "type": "ai_gen_block_21d7141",
+        "ai_gen_block_bf8093f_KgwjML": {
+          "type": "ai_gen_block_bf8093f",
           "settings": {
             "heading": "Why choose us?",
+            "heading_size": 32,
+            "heading_alignment": "center",
+            "heading_spacing": 20,
+            "heading_color": "#000000",
             "feature_column_label": "Feature",
             "us_column_label": "Us",
             "others_column_label": "Others",
             "feature_1": "Free shipping",
-            "us_1": "check",
-            "others_1": "cross",
+            "us_1": true,
+            "others_1": false,
             "feature_2": "24/7 support",
-            "us_2": "check",
-            "others_2": "cross",
+            "us_2": true,
+            "others_2": false,
             "feature_3": "Money-back guarantee",
-            "us_3": "check",
-            "others_3": "cross",
+            "us_3": true,
+            "others_3": false,
             "feature_4": "Premium quality",
-            "us_4": "check",
-            "others_4": "cross",
+            "us_4": true,
+            "others_4": false,
             "feature_5": "",
-            "us_5": "check",
-            "others_5": "cross",
+            "us_5": true,
+            "others_5": false,
             "feature_6": "",
-            "us_6": "check",
-            "others_6": "cross",
+            "us_6": true,
+            "others_6": false,
             "feature_7": "",
-            "us_7": "check",
-            "others_7": "cross",
+            "us_7": true,
+            "others_7": false,
             "feature_8": "",
-            "us_8": "check",
-            "others_8": "cross",
+            "us_8": true,
+            "others_8": false,
+            "feature_9": "",
+            "us_9": true,
+            "others_9": false,
+            "feature_10": "",
+            "us_10": true,
+            "others_10": false,
             "desktop_width_percent": 100,
-            "heading_alignment": "center",
-            "heading_spacing": 30,
-            "padding": 30,
-            "cell_padding": 15,
-            "border_radius": 10,
-            "border_width": 1,
-            "heading_size": 32,
-            "header_font_size": 16,
-            "cell_font_size": 14,
-            "icon_size": 24,
-            "background_color": "#FFFFFF",
-            "heading_color": "#000000",
-            "border_color": "#E5E5E5",
-            "header_bg_color": "#F5F5F5",
+            "table_background": "#FFFFFF",
+            "header_background": "#a8776e",
+            "row_alternate_background": "#FAFAFA",
             "header_text_color": "#000000",
-            "us_column_bg": "#000F9F",
-            "us_column_text": "#FFFFFF",
-            "us_cell_bg": "#F0F4FF",
-            "feature_text_color": "#000000",
-            "cell_text_color": "#525151",
-            "checkmark_color": "#058942",
-            "cross_color": "#CE021E"
+            "body_text_color": "#525151",
+            "border_color": "#E0E0E0",
+            "border_width": 1,
+            "border_radius": 8,
+            "cell_padding": 16,
+            "header_font_size": 16,
+            "body_font_size": 14,
+            "checkmark_size": 24,
+            "us_checkmark_color": "#00C853",
+            "others_checkmark_color": "#00C853",
+            "cross_symbol": "❌",
+            "cross_color": "#D32F2F"
           },
           "blocks": {}
         }
       },
       "block_order": [
-        "ai_gen_block_21d7141_Y4YGzG"
+        "ai_gen_block_bf8093f_KgwjML"
       ],
       "settings": {}
     },
@@ -667,6 +679,26 @@
         "show_section_divider_mobile": false,
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
+      }
+    },
+    "17748779042c656a98": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_zUnfT6": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_zUnfT6"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "1774373014960824ac": {
@@ -762,9 +794,12 @@
     "image_with_text_pny4DB",
     "scrolling_banner_cXMWJF",
     "image_with_text_3DwQRt",
+    "1774876431946d8140",
     "1774875447780d0c0a",
     "17748760589742d3b7",
+    "1774877859b9da17c4",
     "faq_byLxM7",
+    "17748779042c656a98",
     "1774373014960824ac",
     "331e6fca-2947-4a19-89c5-9396be0d666a"
   ]
