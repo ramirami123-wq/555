@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">✨ Instant Lash Lift</span> – Gently curls your lashes in seconds for a natural, long-lasting lift.<br><br>\n\n<span style=\"font-weight: bold;\">🪒 Precise Eyebrow Trimming</span> – Easily shape and trim brows with smooth, painless precision.<br><br>\n\n<span style=\"font-weight: bold;\">💼 2-in-1 Beauty Tool</span> – Compact, stylish design perfect for quick touch-ups anytime, anywhere.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 Fast Heating Technology</span> – Ready to use in seconds with even heat distribution for quick styling.<br><br>\n\n<span style=\"font-weight: bold;\">💁 Smooth & Frizz-Free Results</span> – Effortlessly straighten and tame hair for a sleek, polished look.<br><br>\n\n<span style=\"font-weight: bold;\">👜 Easy to Use Anywhere</span> – Lightweight, portable design perfect for styling at home or on the go.\n</div>"
           }
         },
         "quantity_selector": {
@@ -254,7 +254,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Perfect lashes and brows in seconds",
+            "text": "Sleek, smooth hair in minutes.",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -297,11 +297,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Flawless Lashes in Seconds",
+            "heading": "Tame frizz, own your look.",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p><br/>Get beautifully lifted lashes instantly with a gentle, easy-to-use design that gives you a natural, long-lasting curl without the hassle.<br/><br/></p>",
+            "text": "<p>Achieve sleek, frizz-free hair in minutes with quick heating and easy styling.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -319,7 +319,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1773757232_php9a2bial2sl223nDir1q.jpg",
+        "image": "shopify://shop_images/1-68.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -366,7 +366,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Effortless beauty, anytime, anywhere",
+            "text": "Tame frizz, own your look.",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -409,11 +409,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Perfectly Shaped Brows Made Easy",
+            "heading": "Style with Confidence Anytime",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Trim and shape your eyebrows with precision and comfort, giving you a clean, polished look in just moments.</p>",
+            "text": "<p>Designed for effortless use, giving you a polished look wherever you go.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -431,7 +431,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1773757232_phphvdu5p96k5l12KXBghd.jpg",
+        "image": "shopify://shop_images/1757155897_phpp0vgna3d8jknfQjzy8O.webp",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -501,13 +501,13 @@
             "feature_1": "2-in-1 Design",
             "us_1": true,
             "others_1": false,
-            "feature_2": "Easy to Use",
+            "feature_2": "Fast Heating",
             "us_2": true,
             "others_2": false,
-            "feature_3": "Gentle on Skin",
+            "feature_3": "Gentle on Hair",
             "us_3": true,
             "others_3": false,
-            "feature_4": "Portable & Compact",
+            "feature_4": "Even Heat Distribution",
             "us_4": true,
             "others_4": false,
             "feature_5": "",
@@ -563,8 +563,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is it safe to use on sensitive skin?",
-            "row_content": "<p>Yes, the device is designed to be gentle and safe for all skin types.</p>"
+            "heading": "How fast does it heat up?",
+            "row_content": "<p>It heats up in seconds, so you can start styling almost immediately.</p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
@@ -573,8 +573,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Does the eyelash curler damage lashes?",
-            "row_content": "<p>No, it provides a soft, natural lift without pulling or damaging your lashes.</p>"
+            "heading": "Is it safe for all hair types?",
+            "row_content": "<p>Yes, it works well on most hair types, including thick, curly, and frizzy hair.</p>"
           }
         },
         "frequently_asked_question_p9THCx": {
@@ -583,8 +583,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "No, it provides a soft, natural lift without pulling or damaging your lashes.",
-            "row_content": "<p>Yes, it trims hair smoothly without cuts, irritation, or discomfort.</p>"
+            "heading": "Will it damage my hair?",
+            "row_content": "<p>No, it’s designed to distribute heat evenly to help reduce the risk of damage when used properly.</p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
