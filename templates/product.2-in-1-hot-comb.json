@@ -32,6 +32,13 @@
             "text_size_price": 70
           }
         },
+        "pumper_bundles_app_block_bundle_HEHpDW": {
+          "type": "shopify://apps/pumper-bundles/blocks/app-block-bundle/0856870d-2aca-4b1e-a662-cf1797f61270",
+          "settings": {
+            "selected_product": "{{product}}",
+            "using_page_builder": false
+          }
+        },
         "html_bm7Qqj": {
           "type": "html",
           "settings": {
@@ -167,6 +174,7 @@
         "html_k6nFcL",
         "product_name_xkPbAa",
         "price",
+        "pumper_bundles_app_block_bundle_HEHpDW",
         "html_bm7Qqj",
         "html_riyhhe",
         "quantity_selector",
