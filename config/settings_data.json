@@ -11,6 +11,7 @@
   "current": {
     "theme_mode_enabled": false,
     "theme_mode_mode": "switch",
+    "theme_mode_default": "light",
     "colors_background": "#ffffff",
     "colors_heading": "#211e1e",
     "colors_heading_highlight": "#a8776e",
@@ -75,7 +76,7 @@
     "colors_dark_footer_line": "#5b5553",
     "colors_dark_image_treatment_overlay": "#202020",
     "colors_dark_image_treatment_text": "#ffffff",
-    "type_body_font": "futura_n4",
+    "type_body_font": "mono",
     "text_base_size": 100,
     "type_header_font": "futura_n6",
     "heading_base_size": 100,
