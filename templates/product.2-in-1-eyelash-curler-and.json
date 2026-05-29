@@ -554,6 +554,26 @@
       ],
       "settings": {}
     },
+    "1780085840370a6836": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_MAyhAJ": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "no_reviews",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_MAyhAJ"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "faq_byLxM7": {
       "type": "faq",
       "blocks": {
@@ -728,39 +748,24 @@
     },
     "1780080438906edc16": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_reviews_grid_widget_jpcJwH": {
-          "type": "shopify://apps/judge-me-reviews/blocks/reviews_grid_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "show_sample_reviews": false,
-            "review_selection": "all",
-            "products": [],
-            "show_media_only": false,
-            "display_order": "media_first",
-            "card_grouping": "per_media",
-            "columns_desktop": 3,
-            "rows_desktop": 3,
-            "columns_mobile": "2",
-            "rows_mobile": 6,
-            "show_stars": true,
-            "show_reviewer_name": true,
-            "show_review_title_on_hover_desktop": true,
-            "max_width": 1100,
-            "corner_styling": "soft",
-            "card_spacing": "medium",
-            "header_text_color": "#000000",
-            "star_and_reviewer_name_color": "#F9F9F9",
-            "drop_shadow_color": "#000000",
-            "overlay_and_background_color": "#000000",
-            "content_color": "#F9F9F9",
-            "header_text": "From our customers",
-            "show_average_rating": true
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_reviews_grid_widget_jpcJwH"
-      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "17800843135726a217": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1780084461fff79e24": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1780084545e122ef5c": {
+      "type": "apps",
       "settings": {
         "include_margins": true
       }
@@ -777,10 +782,14 @@
     "1774875447780d0c0a",
     "17748760589742d3b7",
     "1774877859b9da17c4",
+    "1780085840370a6836",
     "faq_byLxM7",
     "17748779042c656a98",
     "1774373014960824ac",
     "331e6fca-2947-4a19-89c5-9396be0d666a",
-    "1780080438906edc16"
+    "1780080438906edc16",
+    "17800843135726a217",
+    "1780084461fff79e24",
+    "1780084545e122ef5c"
   ]
 }
