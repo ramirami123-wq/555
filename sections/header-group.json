@@ -17,11 +17,11 @@
         "6be690ad-170e-4af3-9bbb-0a11620d222a": {
           "type": "promo_code",
           "settings": {
-            "icon": "none",
+            "icon": "delivery-truck",
             "another_icon": "",
             "custom_icon": "",
-            "text": "DELIVERY ALL OVER LEBANON",
-            "text_size": 90,
+            "text": "DELIVERY ALL OVER LEBANON                    & FREE DELIVERY FOR ORDER OVER 52$",
+            "text_size": 110,
             "link": "",
             "open_new_window": false,
             "button_label_or_code": "",
