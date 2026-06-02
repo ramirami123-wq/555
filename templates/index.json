@@ -86,9 +86,9 @@
         "text_zYmrxL": {
           "type": "text",
           "settings": {
-            "text": "The 5 Min Glam",
+            "text": "Shine Effortlessly",
             "highlight_type": "underline",
-            "text_size": 120,
+            "text_size": 100,
             "text_color": "primary",
             "spacing_left": 0,
             "spacing_right": 0,
@@ -211,10 +211,23 @@
     "scrolling_banner_6fW3xL": {
       "type": "scrolling-banner",
       "blocks": {
+        "text_bUnh7k": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "highlight_type": "underline",
+            "text_size": 100,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
         "text_ARBErC": {
           "type": "text",
           "settings": {
-            "text": "Delivery All Over Lebanon",
+            "text": "Free Delivery Over 52$",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -226,6 +239,7 @@
         }
       },
       "block_order": [
+        "text_bUnh7k",
         "text_ARBErC"
       ],
       "name": "t:sections.scrolling_promotion.presets.name",

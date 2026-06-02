@@ -17,10 +17,10 @@
         "6be690ad-170e-4af3-9bbb-0a11620d222a": {
           "type": "promo_code",
           "settings": {
-            "icon": "delivery-truck",
+            "icon": "none",
             "another_icon": "",
             "custom_icon": "",
-            "text": "DELIVERY ALL OVER LEBANON",
+            "text": "Because You Deserve Beauty !",
             "text_size": 110,
             "link": "",
             "open_new_window": false,
@@ -72,7 +72,7 @@
         "mobile_header_layout": "center-left",
         "sticky_header_type": "none",
         "logo": "shopify://shop_images/WhatsApp_Image_2026-03-29_at_22.45.48-removebg-preview.png",
-        "logo_width": 100,
+        "logo_width": 110,
         "logo_width_mobile": 100,
         "show_social_icons": false,
         "enable_on_homepage": true,
