@@ -75,7 +75,7 @@
         "padding_bottom": 4,
         "full_width_mobile": true,
         "rounded_corner_image_mobile": false,
-        "mobile_height": "500",
+        "mobile_height": "natural",
         "padding_top_mobile": 0,
         "padding_bottom_mobile": 4
       }
