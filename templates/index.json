@@ -103,7 +103,7 @@
       ],
       "settings": {
         "show_border": false,
-        "speed": 20,
+        "speed": 30,
         "direction": "right",
         "pause_hover": false,
         "bg_light": "#a8776e",
@@ -344,7 +344,7 @@
       "name": "t:sections.scrolling_promotion.presets.name",
       "settings": {
         "show_border": true,
-        "speed": 20,
+        "speed": 30,
         "direction": "right",
         "pause_hover": true,
         "bg_light": "#a8776e",
