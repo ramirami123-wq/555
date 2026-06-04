@@ -243,6 +243,9 @@
         "text_bUnh7k",
         "text_ARBErC"
       ],
+      "custom_css": [
+        ".scrolling-promotion__list {animation-play-state: paused !important;}"
+      ],
       "name": "t:sections.scrolling_promotion.presets.name",
       "settings": {
         "show_border": true,
