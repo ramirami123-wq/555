@@ -103,7 +103,7 @@
       ],
       "settings": {
         "show_border": false,
-        "speed": 10,
+        "speed": 20,
         "direction": "right",
         "pause_hover": false,
         "bg_light": "#a8776e",
@@ -244,7 +244,7 @@
         "text_ARBErC"
       ],
       "custom_css": [
-        ".scrolling-text, [class*=\"scrolling\"] {animation: none !important; transform: none !important; animation-play-state: paused !important;}"
+        ".scrolling-text,[class*=\"scrolling\"] {animation: none !important; transform: none !important; animation-play-state: paused !important;}"
       ],
       "name": "t:sections.scrolling_promotion.presets.name",
       "settings": {
