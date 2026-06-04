@@ -244,12 +244,12 @@
         "text_ARBErC"
       ],
       "custom_css": [
-        ".scrolling-promotion__list {animation-play-state: paused !important;}"
+        ".scrolling-text, [class*=\"scrolling\"] {animation: none !important; transform: none !important; animation-play-state: paused !important;}"
       ],
       "name": "t:sections.scrolling_promotion.presets.name",
       "settings": {
         "show_border": true,
-        "speed": 20,
+        "speed": 50,
         "direction": "right",
         "pause_hover": true,
         "bg_light": "#a8776e",
