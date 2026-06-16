@@ -228,7 +228,7 @@
         "text_ARBErC": {
           "type": "text",
           "settings": {
-            "text": "Free Delivery Over 52$",
+            "text": "Free Delivery Over 54.99$",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -341,6 +341,7 @@
       "block_order": [
         "text_Xn6gjA"
       ],
+      "custom_css": [],
       "name": "t:sections.scrolling_promotion.presets.name",
       "settings": {
         "show_border": true,
